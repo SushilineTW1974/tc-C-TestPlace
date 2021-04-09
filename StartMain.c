@@ -4,6 +4,8 @@
 
 #define MAX_WERTE 152
 
+
+
 int main(void){
 
 	printf("Hallo Test in C\n");
